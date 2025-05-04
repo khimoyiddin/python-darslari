@@ -1,2 +1,2 @@
 # python-darslari
-Foydali python kodlari
+I think these python codes will be useful
